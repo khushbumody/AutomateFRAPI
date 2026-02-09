@@ -1,0 +1,1 @@
+https://trngfr.agristack.gov.in/farmer-registry-api-training-as/agristack/v1/api/admin/general/validateAadhaarNumber?aadhaarNumber=NDgyNTM0MzA1MTA4
